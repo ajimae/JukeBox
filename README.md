@@ -1,17 +1,15 @@
-# QuinPod
-A sleek and powerful music player built with React Native
+# JukeBox
+Boom Music clone implementated in React Native
 
-![cover](git-cover00.png)
-![cover](Git-Cov.png)
+![cover](cover.png)
 
 
 ## Installation
 - Clone the repository and run `react-native init`
 - Then run `react-native run-ios` to build and run the application
 
-## Design
-- Inspired by [Spotify Music]()
+## Inspiration
+- Inspired by [Boom Music App](https://apps.apple.com/us/app/boom-music-player-equalizer/id1065511007)
 
-## TODO
-- This application is currently supported only on iOS platforms
-- Android version is currently being developed
+## Note
+- This application is only being developed for iOS platform only.
